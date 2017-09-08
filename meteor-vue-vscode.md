@@ -3,6 +3,7 @@
 ### NPM
 - babel-plugin-transform-vue-jsx
 - eslint-plugin-vue
+- vue-eslint-parser
 
 ### Vscode Plugin
 - Vetur
